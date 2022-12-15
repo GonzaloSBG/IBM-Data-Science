@@ -2,7 +2,7 @@
 
 This repository saves The final Capstone of the IBM Data Science certificate https://www.coursera.org/professional-certificates/ibm-data-science
 
-In this capstone, as a Data Scientist of the company Space Y, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
+In this capstone, as a Data Scientist of the company Space Y, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, and much of the savings is because SpaceX can reuse the first stage.
 
 Summary of methodologies:
 
